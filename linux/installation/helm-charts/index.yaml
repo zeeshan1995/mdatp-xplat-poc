@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  mdatp-linux:
+  - apiVersion: v2
+    created: "2026-04-13T13:46:17.934510067Z"
+    description: Microsoft Defender for Endpoint on Linux — Kubernetes DaemonSet
+    digest: 985f687aea9e405ff813c1a00a4f2dd114356992999095de49418dcb4847fb74
+    home: https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint-linux
+    icon: https://zeeshan1995.github.io/mdatp-xplat-poc/linux/installation/helm-charts/icon.png
+    keywords:
+    - security
+    - endpoint-protection
+    - antivirus
+    - microsoft-defender
+    maintainers:
+    - name: MDE Linux Team
+    name: mdatp-linux
+    type: application
+    urls:
+    - mdatp-linux-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-04-13T13:46:17.933928008Z"
